@@ -26,3 +26,6 @@ ORDER BY event_count DESC
 LIMIT 1000000;
 ```
 
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/collection/view/54c7a6843b735)
